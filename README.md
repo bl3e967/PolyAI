@@ -1,6 +1,7 @@
+# Task
 This is the implementation in python of the tasks listed below. The programs for question 1 and question 2 are implemented in question1.y and question2.py. 
 
-Question 1
+# Question 1
 
 Mr. Little Z is on winter vacation, and he has decided to go to the planet Zearth. The only way of traveling through space is by using the aliens' teleportation machines. Mr. Little Z can teleport directly from planet Earth to the planet Zearth, but it is really risky. The aliens haven't perfected their teleportation machine. The greater the distance of traveling the bigger is risk. Because of this, the aliens have built more teleportation stations all throughout space. Teleporting through consecutive teleportation stations lowers the risk.
 
@@ -20,9 +21,13 @@ To the standard output write one real number to 2 decimal places, representing t
 
 Input:
 2.00 2.00 2.00
+
 3
+
 0.00 0.00 2.00
+
 0.00 2.00 2.00
+
 2.00 0.00 0.00
 
 Output:
@@ -32,15 +37,19 @@ Additional example:
 
 Input:
 2.00 2.00 2.00
+
 3
+
 1.00 1.00 1.00
+
 1.00 2.00 2.00
+
 2.00 2.00 1.00
 
 Output:
 1.73
 
-Question 2
+# Question 2
 
 After a long deferment, the mayor of Z-city has allowed pizzerias to be opened in town. Pizzerias used to be unlawful because of health reasons (according to the mayor). The city is big, and suddenly there are pizzerias everywhere.
 
